@@ -11,4 +11,4 @@ puts "Type a number to factoriallize: "
 
 number = gets.to_i
 
-puts factoriallize(number)
+puts "Your factorial-number: #{factoriallize(number)}"
